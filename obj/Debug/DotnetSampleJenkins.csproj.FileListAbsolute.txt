@@ -1,0 +1,7 @@
+C:\Users\Gayathri Mahadevan\source\repos\DotnetSampleJenkins\DotnetSampleJenkins\bin\Debug\DotnetSampleJenkins.exe.config
+C:\Users\Gayathri Mahadevan\source\repos\DotnetSampleJenkins\DotnetSampleJenkins\bin\Debug\DotnetSampleJenkins.exe
+C:\Users\Gayathri Mahadevan\source\repos\DotnetSampleJenkins\DotnetSampleJenkins\bin\Debug\DotnetSampleJenkins.pdb
+C:\Users\Gayathri Mahadevan\source\repos\DotnetSampleJenkins\DotnetSampleJenkins\obj\Debug\DotnetSampleJenkins.csprojAssemblyReference.cache
+C:\Users\Gayathri Mahadevan\source\repos\DotnetSampleJenkins\DotnetSampleJenkins\obj\Debug\DotnetSampleJenkins.csproj.CoreCompileInputs.cache
+C:\Users\Gayathri Mahadevan\source\repos\DotnetSampleJenkins\DotnetSampleJenkins\obj\Debug\DotnetSampleJenkins.exe
+C:\Users\Gayathri Mahadevan\source\repos\DotnetSampleJenkins\DotnetSampleJenkins\obj\Debug\DotnetSampleJenkins.pdb
